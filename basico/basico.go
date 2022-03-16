@@ -54,3 +54,24 @@ func main() {
   student1 = "John"
   fmt.Println(student1)
 }
+*/
+
+/*
+Data Types
+*/
+package main
+
+import (
+	"fmt"
+)
+
+var (
+	nome string
+	n1   int
+	n2   int
+)
+
+func main() {
+	nome = "Gustavo"
+	fmt.Println("Hello", nome, "!")
+}
