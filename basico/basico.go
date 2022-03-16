@@ -112,7 +112,7 @@ func main() {
 
 /*
  Funções
-*/
+
 package main
 
 import "fmt"
@@ -124,4 +124,22 @@ func main() {
 func threeTimes(msg string) (tMsg string) {
 	tMsg = msg + ", " + msg + ", " + msg
 	return
+}
+*/
+
+/*
+ Chamar funções
+*/
+package main
+
+import (
+	"fmt"
+)
+
+func minhaMensagem() {
+	fmt.Println("Vai executar!")
+}
+
+func main() {
+	minhaMensagem() // chama a func
 }
