@@ -58,7 +58,7 @@ func main() {
 
 /*
 Data Types
-*/
+
 package main
 
 import (
@@ -74,4 +74,37 @@ var (
 func main() {
 	nome = "Gustavo"
 	fmt.Println("Hello", nome, "!")
+}
+*/
+
+/*
+ Condicional
+*/
+package main
+
+import "fmt"
+
+func main() {
+	// if, else
+	a := 5
+	if a > 3 {
+		a = a - 3
+	} else if a == 3 {
+		a = 0
+	} else {
+		a = a + 3
+	}
+	fmt.Println(a)
+
+	// switch, case
+	b := "NO"
+	switch b {
+	case "YES":
+		b = "Y"
+	case "NO":
+		b = "N"
+	default:
+		b = "X"
+	}
+	fmt.Println(b)
 }
