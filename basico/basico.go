@@ -79,7 +79,7 @@ func main() {
 
 /*
  Condicional
-*/
+
 package main
 
 import "fmt"
@@ -107,4 +107,21 @@ func main() {
 		b = "X"
 	}
 	fmt.Println(b)
+}
+*/
+
+/*
+ Funções
+*/
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println(threeTimes("Thank You"))
+}
+
+func threeTimes(msg string) (tMsg string) {
+	tMsg = msg + ", " + msg + ", " + msg
+	return
 }
