@@ -165,7 +165,7 @@ func main() {
 
 /*
 	Map com Make()
-*/
+
 package main
 
 import (
@@ -186,4 +186,23 @@ func main() {
 
 	fmt.Printf("a\t%v\n", a)
 	fmt.Printf("b\t%v\n", b)
+}
+*/
+
+/*
+	Acessando elementos do map
+*/
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	var a = make(map[string]string)
+	a["brand"] = "Ford"
+	a["model"] = "Mustang"
+	a["year"] = "1964"
+
+	fmt.Printf(a["brand"])
 }
