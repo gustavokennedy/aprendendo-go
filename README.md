@@ -1,7 +1,7 @@
 <h1>Meus estudos do Go - Aprendendo Go</h1>
 <p> Repositório para estudos do Go, na minha <a href="https://blog.renkel.com.br/jornada-do-devops-apresentacao/">Jornada DevOps.</a>
 
-## Básico
+## Escopo
 * Basic Syntax
 * Variables e declaration
 * Data types
@@ -9,3 +9,6 @@
 * Functions
 * Array, maps and slices
 * Structs
+* GraphQL
+* Autenticação JWT
+* CRUD com mySQL
