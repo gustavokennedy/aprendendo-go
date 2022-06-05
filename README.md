@@ -14,3 +14,15 @@ A ideia é salvar os estudos para quem sabe reutilizar em novos projetos.
 * GraphQL
 * Autenticação JWT
 * CRUD com mySQL
+
+## Portfólio
+
+- Autenticação
+- Serverless
+- DynamoDB/Redis
+- Controle de Usuários
+- S3 upload
+- TDD
+- Grafana e Prometheus
+- APMs (NewRelic e DataLog)
+- Monitoramento
