@@ -18,7 +18,6 @@ A ideia é salvar os estudos para quem sabe reutilizar em novos projetos.
 ## Portfólio
 
 - Autenticação
-- Serverless
 - DynamoDB/Redis
 - Controle de Usuários
 - S3 upload
