@@ -9,3 +9,5 @@ func main() {
 	log.SetOutput(logFile)
 	log.Println("Hello, world!")
 }
+// Instalar o pacote Zap
+// go get -u go.uber.org/zap
