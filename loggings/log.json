@@ -1,0 +1,6 @@
+{"level":"info","ts":"2022-06-08T11:10:30.631-0300","caller":"loggings/main.go:27","msg":"Hello World"}
+{"level":"error","ts":"2022-06-08T11:10:30.652-0300","caller":"loggings/main.go:28","msg":"Not permitido.","url":"blog.renkel.com.br","stacktrace":"main.main\n\tD:/Repositórios/aprendendo-go/loggings/main.go:28\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2022-06-08T11:13:00.985-0300","caller":"loggings/main.go:27","msg":"Hello World"}
+{"level":"error","ts":"2022-06-08T11:13:01.015-0300","caller":"loggings/main.go:28","msg":"Not permitido.","url":"blog.renkel.com.br","stacktrace":"main.main\n\tD:/Repositórios/aprendendo-go/loggings/main.go:28\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2022-06-08T11:15:00.260-0300","caller":"loggings/main.go:27","msg":"Hello World"}
+{"level":"error","ts":"2022-06-08T11:15:00.281-0300","caller":"loggings/main.go:28","msg":"Not permitido.","url":"blog.renkel.com.br","stacktrace":"main.main\n\tD:/Repositórios/aprendendo-go/loggings/main.go:28\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
