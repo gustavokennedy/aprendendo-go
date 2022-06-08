@@ -13,7 +13,7 @@ A ideia é salvar os estudos para quem sabe reutilizar em novos projetos.
 * Structs
 * GraphQL
 * Autenticação JWT
-* CRUD com mySQL
+* CRUD (DynamoDB ou MySQL)
 
 ## Portfólio
 
